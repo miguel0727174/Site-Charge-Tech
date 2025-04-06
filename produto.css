@@ -1,0 +1,73 @@
+td {  width: 10%;
+    height: 10%;}
+
+table { width: 100%;
+    height: 100vh;
+  background-color: black;
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+border-spacing: 0;
+
+
+}
+
+#seu { width:5vh;
+   ;
+font-family: fantasy;
+color: rgb(0, 0, 0);
+text-align: center;}
+
+#carrinho { width:5vh;
+    ;
+ font-family: fantasy;
+ color: rgb(0, 0, 0);
+ text-align: center;}
+
+#linha2 { background-color: #2bef11;
+    height: 5vh;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 2vh;
+color: rgb(0, 0, 0);}
+
+    #oq {width:5vh;
+        ;
+     font-family: fantasy;
+     color: white;
+     text-align: center; }
+     
+     #procura {width:5vh;
+        ;
+     font-family: fantasy;
+     color: white;
+     text-align: center; }
+
+     #produtos { width: 30%; 
+        font-size: 7vh;
+    font-family: fantasy;
+    color: #2bef11;
+    text-align: center;
+    h3 {color: white}
+    text-shadow: black 0.1em 0.1em 0.2em}
+
+    #imgteclado { width: 300px;
+        height: 300px;}
+
+        #descricao { font-family: fantasy;
+        color: white;
+    text-align: center;
+font-size: 2vh}
+
+#valor { font-family: fantasy;
+text-align: center;
+color: white;
+font-size: 5vh;}
+
+svg { width: 20px;
+    height: 20px;}
+
+#linkteclado { color: black;}
+
+img { width: 80px;
+    height: 80px;}

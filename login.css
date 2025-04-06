@@ -1,0 +1,38 @@
+td {  width: 10%;
+    height: 10%;}
+
+table { width: 100%;
+    height: 100vh;
+  background-image: url(Flux_Dev_Create_a_modern_and_sleek_logotype_for_Charge_Tech_fe_2.jpeg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+    border-spacing: 0;}
+
+    #linha3 {background-color: #2bef11;
+        height: 5vh;
+        text-align: center;
+        font-family: fantasy;
+        font-size: 2vh;
+    color: rgb(0, 0, 0);}
+
+    #linkproduto { color: black;}
+
+    img { width: 80px;
+        height: 80px;}
+
+        #gabinete {width: 30%; 
+            font-size: 9vh;
+        font-family: fantasy;
+        color: #2bef11;
+        text-align: center;
+        h3 {color: white}
+        text-shadow: black 0.1em 0.1em 0.2em
+    }
+
+    #forms { 
+        font-family: fantasy;
+    color: white;
+    font-size: 3vh;
+    text-shadow: black 0.1em 0.1em 0.2em}
+    
